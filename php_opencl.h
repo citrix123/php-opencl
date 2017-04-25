@@ -19,7 +19,7 @@
 #include <SAPI.h>
 #include <ext/standard/info.h>
 #include <Zend/zend_extensions.h>
-#include <OpenCL/opencl.h>
+#include </opt/AMDAPPSDK-3.0/include/CL/opencl.h>
 
 BEGIN_EXTERN_C()
 
